@@ -20,11 +20,9 @@ const Coffee = {
     
 }
 
-/*
-|\._./|
-< owo >
-'*---*'
-little cat in the code
-*/
+// |\._./|
+// < owo >
+// '*---*'
+// little cat in the code
 
 export default Coffee
