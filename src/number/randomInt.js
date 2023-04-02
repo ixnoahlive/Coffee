@@ -1,8 +1,9 @@
 /**
-* Documentation TBA, pseudorandom int generator
+* Generates a pseudorandom integer with min & max values
+* @param {number} inclusiveOrigin The lowest possible number
+* @param {number} exclusiveBound The maximum number, keep in mind it is exclusive and will not be picked.
+* @returns {number} The pseudorandom integer
 */
-function randomInt(inclusiveOrigin, inclusiveBound) {
-    let min = Math.ceil(inclusiveOrigin)
-    let max = Math.floor(exclusiveBound)
-    return Math.floor(Math.random() * (max - min + 1)) + min
+function randomInt(inclusiveOrigin = 0, exclusiveBound) {
+    return Math.random() * (max - min) + min;
 }
