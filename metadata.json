@@ -1,0 +1,7 @@
+{
+    "name": "Coffee",
+    "creator": "ixNoah",
+    "description": "Library for ChatTriggers that provides useful functions",
+    "version": "1.0.0",
+    "entry": "index.js"
+}
