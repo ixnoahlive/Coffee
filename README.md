@@ -23,7 +23,7 @@ Please keep in mind you should also add it as a dependency in your project's `me
 import Coffee from 'Coffee'
 ```
 
-You can now use Coffee and it's functions using the `Coffee` object. Simply type something like `Coffee.functionName()` and it'll run perfectly fine.
+You can now use Coffee and it's functions using the `Coffee` object. Simply type something like `Coffee.functionName()` and it'll run perfectly fine. If you prefer to keep it short, you can instead do `import { cf } from 'Coffee'` to import a shorter version.
 
 ## Examples
 

@@ -16,8 +16,7 @@ import addTime from "./src/time/addTIme"
 import msToClock from "./src/time/msToClock"
 
 const Coffee = {
-    pickRandom, runOnTrue, commafy, addTime, msToClock,
-    
+    pickRandom, runOnTrue, commafy, randomInt, randomString, addTime, msToClock
 }
 
 // |\._./|
@@ -25,4 +24,7 @@ const Coffee = {
 // '*---*'
 // little cat in the code
 
+const cf = Coffee
+
+export cf // shortened ver.
 export default Coffee

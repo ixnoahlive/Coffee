@@ -7,3 +7,5 @@
 function randomInt(inclusiveOrigin = 0, exclusiveBound) {
     return Math.random() * (max - min) + min;
 }
+
+export default randomInt
