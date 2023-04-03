@@ -1,6 +1,6 @@
 <div align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-ff8000"></a>
-  <a href="/pulls"><img href="/pulls" src="https://img.shields.io/badge/pulls & issues-welcome-ff8000"></a>
+  <a href="/pulls"><img href="https://github.com/NoahTheNerd/Coffee/pulls" src="https://img.shields.io/badge/pulls & issues-welcome-ff8000"></a>
   <a href="https://chattriggers.com"><img src="https://img.shields.io/badge/powered%20by-ChatTriggers-purple"></a>
   <br/><br/>
   <a href="https://www.chattriggers.com/modules/v/Coffee"><img src="https://i.imgur.com/bdlqDXt.png" height="128"></a><br>
