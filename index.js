@@ -1,30 +1,19 @@
-// ^ Arrays
 import pickRandom from './src/array/pickRandom'
-
-// ^ Generic
 import runOnTrue from "./src/generic/runOnTrue"
-
-// ^ Numbers
 import commafy from "./src/number/commafy"
 import randomInt from "./src/number/randomInt"
-
-// ^ Text
 import randomString from "./src/text/randomString"
-
-// ^ Time
 import addTime from "./src/time/addTIme"
 import msToClock from "./src/time/msToClock"
 
-const Coffee = {
+const cf = Coffee = {
     pickRandom, runOnTrue, commafy, randomInt, randomString, addTime, msToClock
 }
 
 // |\._./|
 // < owo >
-// '*---*'
+// '*---*' 
 // little cat in the code
-
-const cf = Coffee
 
 export cf // shortened ver.
 export default Coffee
