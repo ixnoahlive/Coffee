@@ -5,15 +5,15 @@ import randomInt from "./src/number/randomInt"
 import randomString from "./src/text/randomString"
 import addTime from "./src/time/addTIme"
 import msToClock from "./src/time/msToClock"
+import romanInt from './src/number/romanInt'
 
-const cf = Coffee = {
-    pickRandom, runOnTrue, commafy, randomInt, randomString, addTime, msToClock
+const Coffee = {
+    pickRandom, runOnTrue, commafy, randomInt, randomString, addTime, msToClock, romanInt
 }
 
 // |\._./|
 // < owo >
 // '*---*' 
-// little cat in the code
+// little cat in the code, he maintains the code very well
 
-export cf // shortened ver.
-export default Coffee
+export default Coffee;
