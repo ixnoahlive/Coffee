@@ -27,7 +27,7 @@ You can now use Coffee and it's functions using the `Coffee` object. Simply type
 
 ## Examples
 
-You can find examples on how to use Coffee in [examples.js](/examples.js). But here's one anyway. Keep in mind it may be outdated.
+You can find examples on how to use Coffee in [examples.js](/example.js). But here's one anyway. Keep in mind it may be outdated.
 
 Add this line to your `metadata.json` file to import the latest stable release from Coffee.
 ```json
